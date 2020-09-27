@@ -1,0 +1,5 @@
+com\geovis\entity\Log.class
+com\geovis\entity\Role.class
+com\geovis\entity\User.class
+com\geovis\service\UserService.class
+com\geovis\service\RoleService.class
